@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Junying MA"
+description              : "Hello, I'm Junying Ma. An M.Phil student in Financial Technology at the Society Hub of Hong Kong University of Science and Technology (Guangzhou). I received my B.Sc degree in Economics from Institute for Economic and Social Research (IESR) of Jinan University in June 2023. My research interests are in Urban Economics, Machine Learning, and Empricial Economics. "
+repository               : "junying-ma/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
