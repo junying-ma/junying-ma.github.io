@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junying MA"
-description              : "Hello, I'm Junying Ma. An M.Phil student in Financial Technology at the Society Hub of Hong Kong University of Science and Technology (Guangzhou). I received my B.Sc degree in Economics from Institute for Economic and Social Research (IESR) of Jinan University in June 2023. My research interests are in Urban Economics, Machine Learning, and Empricial Economics. "
+description              : "M.Phil student in Financial Technology at The Hong Kong University of Science and Technology (Guangzhou)."
 repository               : "junying-ma/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junying MA"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/pcimage.jpg"
+  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "jma652@connect.hkust-gz.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
