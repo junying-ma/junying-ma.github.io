@@ -36,7 +36,13 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 - *2019.09 - 2023.06*, B.Sc. in Economics, Institute for Economic and Social Research, Jinan University. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Guangfa Securities Co., Ltd](https://www.gf.com.cn/), China.
-- **Department · Industrial Research Institute**
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/GF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Guangfa Securities Co., Ltd](https://www.gf.com.cn/)
+
+**Department · Industrial Research Institute · Research Intern**
 - Advised by Mr. Juntao CAI
 - Sep. 2022 - Jan. 2023
+</div>
+</div>
