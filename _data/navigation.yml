@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#about-educations"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -13,4 +13,4 @@ main:
     url: "/#-internships"
 
   - title: "Research"
-    url: "/#research/"
+    url: "/#research"
