@@ -3,10 +3,6 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-{% include base_path %}
-Working Paper
-======
-
 <span class='anchor' id='research'></span>
 
 # Working Paper
