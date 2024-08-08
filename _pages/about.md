@@ -23,11 +23,11 @@ Hello, I'm Junying Ma. An M.Phil student in Financial Technology at the Society 
 
 My research interests are in Urban Economics, Machine Learning, and Empricial Economics.
 
-# 📖 Educations
+# Educations
 - *2023.09 - 2025.07*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, B.Sc. in Economics, Institute for Economic and Social Research, Jinan University. 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ).
 - *Apr. 2023* The 2nd Prize Award of Business Elite, Xiamen International Bank.
 - *Sep. 2022* The 3rd Class Scholarship, Jinan University.
@@ -36,7 +36,7 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 - *Sep. 2020* Excellent Students Award, Jinan University.
 - *Sep. 2020* The 1st Class Scholarship, Jinan University
 
-# 💻 Internships
+# Internships
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GF Securities</div><img src='../images/GF.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
