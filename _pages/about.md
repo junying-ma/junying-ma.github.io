@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Welcome!
+
 Hello, I'm Junying Ma. An M.Phil student in Financial Technology at the Society Hub of Hong Kong University of Science and Technology (Guangzhou). I received my B.Sc degree in Economics from Institute for Economic and Social Research (IESR) of Jinan University in June 2023. 
 
 My research interests are in Urban Economics, Machine Learning, and Empricial Economics.
