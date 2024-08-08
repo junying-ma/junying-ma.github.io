@@ -21,22 +21,19 @@ Hello, I'm Junying Ma. An M.Phil student in Financial Technology at the Society 
 
 My research interests are in Urban Economics, Machine Learning, and Empricial Economics.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ).
+- *Apr. 2023* The 2nd Class Award of Business Elite, Xiamen International Bank.
+- *Sep. 2022* The 3rd Class Scholarship, Jinan University.
+- *Sep. 2020* Excellent Students Award, Jinan University.
+- *Sep. 2020* The 1st Class Scholarship, Jinan University
 
 # 📖 Educations
 - *2023.09 - 2025.07 (expected)*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, B.Sc. in Economics, Institute for Economic and Social Research, Jinan University. 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GF Securities</div><img src='../images/GF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GF Securities</div><img src='../images/GF.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Guangfa Securities Co., Ltd](https://www.gf.com.cn/)
@@ -47,7 +44,7 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EY</div><img src='../images/EY.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EY</div><img src='../images/EY.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ernst & Yong LLP](https://www.ey.com/)
@@ -58,7 +55,7 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MP Group</div><img src='../images/MP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MP Group</div><img src='../images/MP.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Guangzhou Zhongda Management Consulting Co., Ltd](https://www.mpgroup.cn/)
