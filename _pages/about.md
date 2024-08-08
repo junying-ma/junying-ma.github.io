@@ -43,10 +43,16 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 <span class='anchor' id='-research'></span>
 # Working Paper
 **Accessibility and Productivity: Evidence from Urban Commuting**
-***Jan. 2024 - Present***
+*Jan. 2024 - Present*
 - Collected residential POIs data by quadtree polygon search method, and calculated the public transit commuting data to listed companies by routing algorithm, which are both conducted on Tencent Map with the Linux server.
 - Based on econometric model, explored the relationship between commuting and companies' productivity.
 - Using reinforcement learning strategy, predict the most suitable location for different types of companies.
+
+**Urban Migration, Human Capital and Air pollution: Evidence from the University Admission Examination in China**
+*May. 2022 - Present*
+- Crawled China's over 3000 universities's data by Python, and digitalized temperature inversion data by ArcGIS.
+- Computed the migration index of universities, employed temperature inversion as IV for a 2SLS model and estimated the impact of AQI on universities' migration effect.
+- Drew a robust conclusion on the effect of air pollution on the migration of human capital.
 
 
 <span class='anchor' id='-internships'></span>
