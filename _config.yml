@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Junying MA"
 description              : "M.Phil. Student in Financial Technology at HKUST(GZ)."
+url                      : https://junying-ma.github.io
 repository               : "junying-ma/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
