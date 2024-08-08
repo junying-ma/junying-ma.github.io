@@ -6,7 +6,7 @@ excerpt: ""
 author_profile: true
 ---
 {% raw %}{% if page.author_profile %}
-  {% include author_profile.html %}
+  {% includes author_profile.html %}
 {% endif %}{% endraw %}
 
 
