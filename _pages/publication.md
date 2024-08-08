@@ -1,13 +1,10 @@
 ---
-layout: default
 permalink: /publications/
 title: ""
 excerpt: ""
 author_profile: true
 ---
-{% raw %}{% if page.author_profile %}
-  {% includes author_profile.html %}
-{% endif %}{% endraw %}
+{% include base_path %}
 
 
 *Working Paper
