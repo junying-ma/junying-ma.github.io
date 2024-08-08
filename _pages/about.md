@@ -23,13 +23,15 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 
 # 🎖 Honors and Awards
 - *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ).
-- *Apr. 2023* The 2nd Class Award of Business Elite, Xiamen International Bank.
+- *Apr. 2023* The 2nd Prize Award of Business Elite, Xiamen International Bank.
 - *Sep. 2022* The 3rd Class Scholarship, Jinan University.
+- *Apr. 2022* The 3rd Prize (National level), National Market Research Competition.
+- *Sep. 2021* The 2nd Prize (Provincial Level), National Mathematical Modelling Competition.
 - *Sep. 2020* Excellent Students Award, Jinan University.
 - *Sep. 2020* The 1st Class Scholarship, Jinan University
 
 # 📖 Educations
-- *2023.09 - 2025.07 (expected)*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology (Guangzhou). 
+- *2023.09 - 2025.07*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, B.Sc. in Economics, Institute for Economic and Social Research, Jinan University. 
 
 # 💻 Internships
