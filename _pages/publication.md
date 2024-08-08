@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
-{% raw %}{% if page.author_profile %}
-  {% include author_profile.html %}
+{% raw %}{% if page.default %}
+  {% include default.html %}
 {% endif %}{% endraw %}
 
 
