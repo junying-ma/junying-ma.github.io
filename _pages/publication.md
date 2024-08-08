@@ -1,15 +1,11 @@
 ---
 layout: archive
 permalink: /publications/
-title: ""
-excerpt: ""
 author_profile: true
 ---
 {% include base_path %}
-{% raw %}{% if page.author_profile %}
-  {% include author_profile.html %}
-{% endif %}{% endraw %}
 
 
-*Working Paper
+Working Paper
+======
 * **Li, Q.**, Fuerst, F & Luca,D. (2024). Success in Tandem? The Impact of the Introduction of E-bike Sharing on the Usage for Bike Sharing: A Natural Experimental Study.  Research in Transportation Economics. Accepted
