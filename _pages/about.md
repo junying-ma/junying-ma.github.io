@@ -19,9 +19,9 @@ redirect_from:
 
 # Welcome!
 
-Hello, I'm Junying Ma. An M.Phil student in [Financial Technology](https://soch.hkust-gz.edu.cn/academics/ftec/) at the [Society Hub](https://soch.hkust-gz.edu.cn/) of [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Guang ZHANG](https://sites.google.com/view/guang-zhang/home). 
+Hello, I'm Junying Ma. An M.Phil. student in [Financial Technology](https://soch.hkust-gz.edu.cn/academics/ftec/) at the [Society Hub](https://soch.hkust-gz.edu.cn/) of [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Guang ZHANG](https://sites.google.com/view/guang-zhang/home). 
 
-Before joining in HKUST(GZ), I received my B.Sc degree in Economics from [IESR](https://iesr.jnu.edu.cn/) of [Jinan University](https://www.jnu.edu.cn/) in June 2023， supervised by Prof. [Zizhong YAN](https://iesr.jnu.edu.cn/2019/0813/c17118a400509/page.psp). 
+Before joining in HKUST(GZ), I received my B.Sc. degree in Economics from [IESR](https://iesr.jnu.edu.cn/) of [Jinan University](https://www.jnu.edu.cn/) in June 2023, supervised by Prof. [Zizhong YAN](https://iesr.jnu.edu.cn/2019/0813/c17118a400509/page.psp). 
 
 My research interests are in Urban Economics, Machine Learning, and Empricial Economics.
 
