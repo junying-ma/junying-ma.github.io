@@ -40,6 +40,15 @@ My research interests are in Urban Economics, Machine Learning, and Empricial Ec
 - *Sep. 2020* Excellent Students Award, Jinan University.
 - *Sep. 2020* The 1st Class Scholarship, Jinan University
 
+<span class='anchor' id='-research'></span>
+# Working Paper
+**Accessibility and Productivity: Evidence from Urban Commuting**
+***Jan. 2024 - Present***
+- Collected residential POIs data by quadtree polygon search method, and calculated the public transit commuting data to listed companies by routing algorithm, which are both conducted on Tencent Map with the Linux server.
+- Based on econometric model, explored the relationship between commuting and companies' productivity.
+- Using reinforcement learning strategy, predict the most suitable location for different types of companies.
+
+
 <span class='anchor' id='-internships'></span>
 # Internships
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GF Securities</div><img src='../images/GF.jpg' alt="sym" width="80%"></div></div>
