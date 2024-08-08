@@ -2,9 +2,6 @@
 permalink: /publications/
 author_profile: true
 ---
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-
-
 Selected Publication
 ======
 
