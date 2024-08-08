@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 permalink: /publications/
 title: ""
 excerpt: ""
