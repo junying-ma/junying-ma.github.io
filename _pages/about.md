@@ -37,13 +37,13 @@ My research interests are to empower social sciences (economics) with machine le
 
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
-- *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ).
-- *Apr. 2023* The 2nd Prize Award of Business Elite, Xiamen International Bank.
-- *Sep. 2022* The 3rd Class Scholarship, Jinan University.
+- *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ). **(CNY 120,000 per year)**
+- *Apr. 2023* The 2nd Prize Award of Business Elite, Xiamen International Bank. **(CNY 8,000)**
+- *Sep. 2022* The 3rd Class Scholarship, Jinan University. **(CNY 8,00)**
 - *Apr. 2022* The 3rd Prize (National level), National Market Research Competition.
 - *Sep. 2021* The 2nd Prize (Provincial Level), National Mathematical Modelling Competition.
 - *Sep. 2020* Excellent Students Award, Jinan University.
-- *Sep. 2020* The 1st Class Scholarship, Jinan University
+- *Sep. 2020* The 1st Class Scholarship, Jinan University. **(CNY 1,500)**
 
 <span class='anchor' id='-research'></span>
 # Working Paper
