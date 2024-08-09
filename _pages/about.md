@@ -22,7 +22,7 @@ Hello, I'm Junying Ma, an M.Phil. student in [Financial Technology](https://soch
 
 My research interests are to empower social sciences (economics) with machine learning and AI tools, to empirically understand urbans, environments, and human behavior. I aim to build bridges between empirical research and multimodal data.
 
-<p style="color: #FA8072;">Currently I am applying for Ph.D. Programs, if you are looking for a Ph.D. student and are interested in me, please feel free to contact me. Thank you!</p>
+<p style="color: #FA8072;">Currently I am applying for Ph.D. Programs, if you are looking for a Ph.D. student and are interested in me, please feel free to contact me. Any research collaboration in my research fields is also welcome. Thank you!</p>
 
 # Research fields:
 - Urban Economics
