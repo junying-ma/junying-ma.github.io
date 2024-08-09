@@ -20,9 +20,13 @@ redirect_from:
 
 Hello, I'm Junying Ma, an M.Phil. student in [Financial Technology](https://soch.hkust-gz.edu.cn/academics/ftec/) at the Society Hub of [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Guang ZHANG](https://sites.google.com/view/guang-zhang/home). I got my B.Sc. degree in Economics from [IESR](https://iesr.jnu.edu.cn/) of [Jinan University](https://www.jnu.edu.cn/) supervised by [Prof. Zizhong YAN](https://iesr.jnu.edu.cn/2019/0813/c17118a400509/page.psp). 
 
-My research interest is to empower social sciences (economics) with machine learning and AI tools, to empirically understand urbans, environments, and human behavior. I aim to build bridges between empirical research and multimodal data.
+My research interests are to empower social sciences (economics) with machine learning and AI tools, to empirically understand urbans, environments, and human behavior. I aim to build bridges between empirical research and multimodal data.
 
-Research fields: Urban Economics, Environmental Economics, Empricial Economics, AI for Social Science.
+**Research fields:** 
+- Urban Economics
+- Environmental Economics
+- Empricial Economics
+- AI for Social Science.
 
 <span class='anchor' id='-educations'></span>
 # Educations
