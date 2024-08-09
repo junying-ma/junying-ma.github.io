@@ -59,6 +59,13 @@ My research interests are to empower social sciences (economics) with machine le
 - Computed the migration index of universities, employed temperature inversion as IV for a 2SLS model and estimated the impact of AQI on universities' migration effect.
 - Drew a robust conclusion on the effect of air pollution on the migration of human capital.
 
+# Work in Progress
+- Beyond the Lens: Visa-free and China's Social Media Persona
+- Shopping or Strolling? AI's Urban Safari
+- From Door-to-Door to Work-from-Home: LLM-Driven Micro-survey Data Simulation
+- AI Agents' Multiverse: LLM-Powered Simulations of Economics Experiments
+
+
 
 <span class='anchor' id='-internships'></span>
 # Internships
