@@ -50,9 +50,10 @@ My research interests are to empower social sciences (economics) with machine le
 **Accessibility and Productivity: Evidence from Urban Commuting**
 
 *Jan. 2024 - Present*
-- Collected residential POIs data by quadtree polygon search method, and calculated the public transit commuting data to listed companies by routing algorithm, which are both conducted on Tencent Map with the Linux server.
-- Based on econometric model, explored the relationship between commuting and companies' productivity.
-- Using reinforcement learning strategy, predict the most suitable location for different types of companies.
+- Collected residential POIs data by quadtree polygon search method, as well as road networks from openstreetmap and GPS trajectory data..
+- Construct STGNN model, predict the locations of employee residence for firms and build commuting pairs.
+- Calculate the commuting data for commuting pairs, with the help of Tencent Map on the Linux server.
+- Explore the impact of commuting on companies' productivity, with the IV of theoretical shortest time. 
 
 **Urban Migration, Human Capital and Air pollution: Evidence from the University Admission Examination in China**
 
