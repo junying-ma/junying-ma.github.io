@@ -27,6 +27,7 @@ My research interests are to empower social sciences (economics) with machine le
 # Research Fields
 - Urban Economics
 - Environmental Economics
+- Labor Economics
 - Empricial Economics
 - AI for Social Science.
 
