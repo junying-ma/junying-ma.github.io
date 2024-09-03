@@ -25,9 +25,6 @@ My research interests are to empower social sciences (economics) with machine le
 <p style="color: #FA8072;">Currently I am applying for Ph.D. Programs, if you are looking for a Ph.D. student and are interested in me, please feel free to contact me. Any research collaboration in my research fields is also welcome. Thank you!</p>
 
 # Research Fields
-- Urban Economics
-- Environmental Economics
-- Labor Economics
 - Empricial Economics
 - AI for Social Science.
 
