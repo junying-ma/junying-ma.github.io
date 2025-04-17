@@ -44,9 +44,11 @@ My research interests are to empower social sciences (economics) with machine le
 - *Sep. 2020* The 1st Class Scholarship, Jinan University. **(CNY 1,500)**
 
 <span class='anchor' id='-research'></span>
-# Working Papers
+# Publication
 [Adapting to the Unknown: Robust Meta-Learning for Zero-Shot Financial Time Series Forecasting](https://arxiv.org/pdf/2504.09664)
+
 Anxian Liu∗, **Junying Ma∗**, Guang Zhang†
+
 *Preprint arXiv:2504.09664, 2025.*
 
 # Working Papers
