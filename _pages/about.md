@@ -73,9 +73,7 @@ Anxian Liu, **Junying Ma**, Guang Zhang
 - Drew a robust conclusion on the effect of air pollution on the migration of human capital.
 
 # Work in Progress
-- Beyond the Lens: Visa-free and China's Social Media Persona
 - Shopping or Strolling? AI's Urban Safari
-- From Door-to-Door to Work-from-Home: LLM-Driven Micro-survey Data Simulation
 - AI Agents' Multiverse: LLM-Powered Simulations of Economics Experiments
 
 
