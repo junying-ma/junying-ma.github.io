@@ -45,9 +45,11 @@ My research interests are to empower social sciences (economics) with machine le
 
 <span class='anchor' id='-research'></span>
 # Publication
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MP Group</div><img src='../images/Adapting to  Uknown.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Adapting to the Unknown: Robust Meta-Learning for Zero-Shot Financial Time Series Forecasting](https://arxiv.org/pdf/2504.09664)
 
-Anxian Liu∗, **Junying Ma∗**, Guang Zhang†
+Anxian Liu, **Junying Ma**, Guang Zhang
 
 *Preprint arXiv:2504.09664, 2025.*
 
