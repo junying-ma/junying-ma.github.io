@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Welcome!
 
-Hello, I'm Junying Ma, an M.Phil. student in [Financial Technology](https://soch.hkust-gz.edu.cn/academics/ftec/) at the Society Hub of [HKUST(GZ)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Guang ZHANG](https://sites.google.com/view/guang-zhang/home). I got my B.Sc. degree in Economics from [IESR](https://iesr.jnu.edu.cn/) of [Jinan University](https://www.jnu.edu.cn/) supervised by [Prof. Zizhong YAN](https://iesr.jnu.edu.cn/2019/0813/c17118a400509/page.psp). 
+Hello, I'm Junying Ma, an M.Phil. student in [Financial Technology](https://soch.hkust-gz.edu.cn/academics/ftec/) at the Society Hub of [HKUST](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. Guang ZHANG](https://sites.google.com/view/guang-zhang/home). I got my B.Sc. degree in Economics from [IESR](https://iesr.jnu.edu.cn/) of [Jinan University](https://www.jnu.edu.cn/) supervised by [Prof. Zizhong YAN](https://iesr.jnu.edu.cn/2019/0813/c17118a400509/page.psp). 
 
 My research interests are to empower social sciences (economics) with machine learning and AI tools, to empirically understand urbans, environments, and human behavior. I aim to build bridges between empirical research and multimodal data.
 
@@ -30,12 +30,12 @@ My research interests are to empower social sciences (economics) with machine le
 
 <span class='anchor' id='-educations'></span>
 # Educations
-- *2023.09 - 2025.07*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology (Guangzhou). 
+- *2023.09 - 2025.07*, M.Phil. in Financial Technology, Society Hub, The Hong Kong University of Science and Technology. 
 - *2019.09 - 2023.06*, B.Sc. in Economics, Institute for Economic and Social Research, Jinan University. 
 
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
-- *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST(GZ). **(CNY 120,000 per year)**
+- *Sep. 2023* Postgraduate Studentship (PGS) award, HKUST. **(CNY 120,000 per year)**
 - *Apr. 2023* The 2nd Prize Award of Business Elite, Xiamen International Bank. **(CNY 8,000)**
 - *Sep. 2022* The 3rd Class Scholarship, Jinan University. **(CNY 8,00)**
 - *Apr. 2022* The 3rd Prize (National level), National Market Research Competition.
